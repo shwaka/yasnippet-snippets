@@ -2,6 +2,6 @@
 # name: psvm
 # key: psvm
 # --
-fun main(args: Array<string>) {
+fun main(args: Array<String>) {
     $0
 }
